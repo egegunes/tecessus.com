@@ -1,0 +1,19 @@
+baseurl = "https://tecessus.com/"
+title = "Tecessüs"
+author = "Ege Güneş"
+canonifyurls = true
+languagecode = "en"
+theme = "black-and-light"
+enableRobotsTXT = true
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[[menu.main]]
+    name = "RSS"
+    url  = "/index.xml"
+
+[params]
+  sitename = "Tecessüs"
+  disableWebFonts = false
+  description = "Kitap incelemeleri, çeviriler ve fikirler"
