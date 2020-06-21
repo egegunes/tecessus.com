@@ -1,5 +1,5 @@
 ---
-title: "Camus Ve Sartre Nasıl Özgür Olunacağı Sorusu Nasıl Ayrıldı?"
+title: "Camus Ve Sartre Nasıl Özgür Olunacağı Sorusu Üzerine Nasıl Ayrıldı?"
 date: 2017-10-14T14:13:33+03:00
 draft: false
 ---
