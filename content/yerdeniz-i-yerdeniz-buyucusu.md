@@ -114,5 +114,5 @@ Ana kahraman, Denge'nin ne kadar hassas olduğunu ve neden bozulmaması
 gerektiğini zor yollardan öğreniyor. İlk kitabın hikayesi de bu öğrenme
 sürecini ve kahramanımızın çocukluktan yetişkinliğe geçişi konu alıyor.
 Leguin'in güzel anlatımı ve büyücülüğe benim için yeni yaklaşımı ile
-Yerdeniz serisinin ilk kitabı Yerdeniz Büyücüsü'ne okumaktan büyük keyif
+Yerdeniz serisinin ilk kitabı Yerdeniz Büyücüsü'nü okumaktan büyük keyif
 duydum.
