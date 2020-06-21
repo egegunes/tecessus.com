@@ -136,10 +136,5 @@ ettiği imkansız idealizm tehlikeli bir yol izlemektedir -ve Camus ile
 Sartre daha adil ve daha özgür bir dünya tahayyül etmek için çabalarken
 Avrupa’nın küller içerisinde yatmasının sebedir.
 
-[^1]: Türkçe'de siyah ayak anlamına gelen pied-noir, Fransa’nın Tunus,
-Cezayir ve Fas’ı sömürge olarak tuttuğu sıralarda Akdeniz’in her
-yerinden bu ülkelere yerleşen Hıristiyan ve Yahudileri ifade eder.
-[^2]: Gulag, aslında Lenin döneminde kurulmuş bir bakanlık olsa da genel
-olarak Sovyetler Birliği’ndeki katillerden siyasilere çeşitli
-tutukluların zorla çalıştırıldığı kampları ifade etmek için kullanılır.
-
+[^1]: Türkçe'de siyah ayak anlamına gelen pied-noir, Fransa’nın Tunus, Cezayir ve Fas’ı sömürge olarak tuttuğu sıralarda Akdeniz’in her yerinden bu ülkelere yerleşen Hıristiyan ve Yahudileri ifade eder.
+[^2]: Gulag, aslında Lenin döneminde kurulmuş bir bakanlık olsa da genel olarak Sovyetler Birliği’ndeki katillerden siyasilere çeşitli tutukluların zorla çalıştırıldığı kampları ifade etmek için kullanılır.
