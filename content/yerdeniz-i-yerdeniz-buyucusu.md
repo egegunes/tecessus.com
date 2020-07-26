@@ -4,10 +4,11 @@ date: 2020-06-20T21:03:15+03:00
 draft: false
 ---
 
-> Söz sessizlikte,
-> ışık karanlıkta,
-> yaşam ölürken;
-> bomboş gökyüzünde uçarken parlar atmaca.
+> Söz sessizlikte, \
+> ışık karanlıkta, \
+> yaşam ölürken; \
+> bomboş gökyüzünde uçarken parlar atmaca. \
+> \
 > Ea'nın Yaradılışı
 
 İlkokul yıllarında kitap okumaya mitoloji ve fantastik kurgu ile
